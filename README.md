@@ -1,6 +1,8 @@
 # Desenvolvimento de Projetos de Computação grafica com FREEGLUT no VSCODE
 
 Este repositorio tem um intuito de ajudar academicos a executar o freeglut em ambientes mais modernos ao inves de depender de IDE's menos utilizada e depredadas
+## Requisitos
+- g++.exe
 
 ## Execução
 - Para build da aplicação precione <code>Ctrl+Shift+B</code>
