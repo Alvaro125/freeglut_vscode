@@ -4,14 +4,14 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${fileDirname}/include"
+                "${workspaceFolder}/include"
             ],
             "defines": [],
             "forcedInclude": [
-                "${fileDirname}/include/GL/freeglut.h",
+                "${workspaceFolder}/include/GL/freeglut.h"
             ],
             "intelliSenseMode": "windows-gcc-x64",
-            "compilerPath": "g++",
+            "compilerPath": "C:/ProgramData/mingw64/mingw64/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17"
         }
